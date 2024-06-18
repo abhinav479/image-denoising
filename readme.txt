@@ -1,5 +1,3 @@
-
-
 ## Introduction
 
 This project involves a denoising task using convolutional neural networks (CNNs) to remove noise from images. The primary steps include setting up directories, loading images, normalizing them, creating datasets, defining a CNN model, and training the model.
